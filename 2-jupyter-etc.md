@@ -33,6 +33,27 @@ Commands:
 
 [A list of magics](http://jupyter.cs.brynmawr.edu/hub/dblank/public/Jupyter%20Magics.ipynb)
 
+## Import Python code
+
+Generally it's a bad idea to write a LOT of code in a single cell; we
+tend to suggest using the notebook as a way to explore data, rather than
+write lots of code.  Luckily, you can import code from modules just like
+you normally would.
+
+Try entering this in a cell in a Python notebook:
+
+    %%file mycode.py
+    def f():
+       print('hello, world')
+
+and then in the following cell, enter:
+
+    import mycode
+    f()
+
+Note, here the '%%file' is just a way of creating a file - you can do that
+in a variety of ways.  Speaking of which...
+
 # Console
 
 Basically, you can interact with the file system in a variety of ways:
@@ -43,6 +64,15 @@ OR via terminal.
 * download and edit files;
 * save and download figures;
 * terminal window;
+
+# Caveats
+
+* long-running notebooks don't work that well;
+* multiple views of the same notebook *share the kernel* but don't share
+  the output;
+* this is the same on a reload...
+* the execution order can be confusing: re-run your notebook from
+  scratch, frequently.
 
 # Sharing notebooks via github
 
