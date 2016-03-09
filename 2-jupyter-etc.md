@@ -15,6 +15,8 @@ Commands:
 
 # Distributing executable notebooks with github and mybinder
 
+# Wait, where the heck is this all running?
+
 # Other cool notebook ideas: really interactive blog posts
 
 See [Tim Head's demo](https://betatim.github.io/posts/really-interactive-posts/)
