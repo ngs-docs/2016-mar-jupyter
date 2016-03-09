@@ -1,6 +1,6 @@
 # Other languages: R notebooks
 
-Try starting an R notebook, and executing::
+Try starting an R notebook, and executing:
 
     require(graphics)
     (yl <- range(beaver1$temp, beaver2$temp))
@@ -21,7 +21,9 @@ Try starting an R notebook, and executing::
      beaver.plot(beaver1, ylim = yl)
      beaver.plot(beaver2, ylim = yl)
     par(op)
-    
+
+Basically it all works as you'd expect...
+
 # Moar magic inside notebooks
  
 Commands:
