@@ -1,7 +1,6 @@
 [Start here](@@@)
-@@ link to my first notebook
 
-http://blog.jupyter.org/2015/07/07/project-jupyter-computational-narratives-as-the-engine-of-collaborative-data-science/
+Go [here](https://github.com/ngs-docs/2016-mar-jupyter/blob/master/my%20first%20notebook.ipynb) to see a notebook transcription of this lesson.
 
 ## Basics
 
@@ -36,8 +35,6 @@ and execute it.
 Using the menu to execute cell is annoying so you can use CTRL-ENTER
 and SHIFT-ENTER.  What's the difference between these?
 
-[//]: # (@@restart kernel etc)
-[//]: # (@@execution numbers etc)
 [//]: # (@@pulling up a new notebook)
 
 You can also define variables: put a=5, b=10.  Then in another cell put c=a+b
@@ -78,8 +75,6 @@ You can update this plot incrementally, too, of course, so e.g. change
 the plot line to 'plot(x, y, label="my line")' and then add a
 'legend()' command.
 
-[//]: # ()
-
 One super neat feature of Jupyter is the ability to load code into a
 cell from other places.  For example, if we go to [the matplotlib gallery](http://matplotlib.org/gallery.html) and see something we want to work with, you
 can load that code into the notebook.  For example, if we like [this plot](http://matplotlib.org/examples/images_contours_and_fields/streamplot_demo_features.html) we can grab it directly like so:
@@ -119,8 +114,6 @@ kernel.  Note that the cell number is '*' while it's executing.
 
 It's generally good practice to restart the kernel and execute from the
 beginning before saving or continuing a notebook.
-
-[//]: # (@@ cell magics https://ipython.org/ipython-doc/3/interactive/magics.html)
 
 ## The menus
 
@@ -194,3 +187,5 @@ interested in seeing more about what you can do with notebooks,
 there's lots of interesting notebooks to look at in the [Jupyter
 Notebook
 gallery](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks).
+
+[Return to index](https://github.com/ngs-docs/2016-mar-jupyter)
