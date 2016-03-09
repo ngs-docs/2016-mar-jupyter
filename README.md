@@ -6,15 +6,14 @@ https://dib-training.readthedocs.org/en/pub/2016-03-09-jupyter-notebook.html
 
 ----
 
-mybinder link goes here
+Click here to run in [mybinder](http://mybinder.org):
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/ngs-docs/2016-mar-jupyter-mybinder)
 
 ----
 
-To run Jupyter Notebook on Amazon Web Services:
+Lesson links:
 
-Boot ubuntu-wily-15.10-amd64-server-20151116.1 (ami-26d5af4c).
+## [Intro lesson](1-intro-script.md)
 
-then:
-
-    curl -O -L https://raw.githubusercontent.com/ngs-docs/2015-nov-jupyter/master/install-on-ubuntu.sh
-    bash install-on-ubuntu.sh
+## [More lesson](2-jupyter-etc.md)
