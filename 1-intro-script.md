@@ -3,7 +3,7 @@
 This is the console.  This is where you start and stop notebooks, along
 with other things.
 
-[/] # @@running vs ...
+[//] # @@running vs ...
 
 We'll start with a Python notebook.  You can pick the version of Python
 to run; for demonstration purposes, let's use Python 3.  New... Python 3.
