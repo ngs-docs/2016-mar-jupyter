@@ -1,4 +1,4 @@
-[Start here](@@@)
+[Start here](http://mybinder.org/repo/ngs-docs/2016-mar-jupyter-mybinder)
 
 Go [here](https://github.com/ngs-docs/2016-mar-jupyter/blob/master/my%20first%20notebook.ipynb) to see a notebook transcription of this lesson.
 
