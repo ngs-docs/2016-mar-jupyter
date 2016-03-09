@@ -24,7 +24,7 @@ Try starting an R notebook, and executing:
 
 Basically it all works as you'd expect...
 
-# Moar magic inside notebooks
+# More magic inside notebooks
  
 Commands:
 
@@ -81,7 +81,7 @@ OR via terminal.
 [this](https://github.com/ngs-docs/2016-mar-jupyter/blob/master/my%20first%20notebook.ipynb)
 for example.
 
-To try this,
+To try this for yourself,
 
 1. Download your notebook from your running Jupyter site.
 
