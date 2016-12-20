@@ -79,7 +79,8 @@ One super neat feature of Jupyter is the ability to load code into a
 cell from other places.  For example, if we go to [the matplotlib gallery](http://matplotlib.org/gallery.html) and see something we want to work with, you
 can load that code into the notebook.  For example, if we like [this plot](http://matplotlib.org/examples/images_contours_and_fields/streamplot_demo_features.html) we can grab it directly like so:
 
-   %load http://matplotlib.org/mpl_examples/images_contours_and_fields/streamplot_demo_features.py
+
+    %load http://matplotlib.org/mpl_examples/images_contours_and_fields/streamplot_demo_features.py
 
 (Here, we copied the source code link.)
 
@@ -120,7 +121,7 @@ beginning before saving or continuing a notebook.
 So, that's the majority of the notebook features I use myself.  Let's take
 a look through the menus.
 
-Help ... keyboard shorcuts.  For example, type 'Escape' to go into command
+Help ... keyboard shortcuts.  For example, type 'Escape' to go into command
 mode, and then type 'l'. you'll see line numbers for that cell. toggle 'l'
 again.
 

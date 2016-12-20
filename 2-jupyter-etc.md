@@ -51,7 +51,7 @@ and then in the following cell, enter:
     import mycode
     f()
 
-Note, here the '%%file' is just a way of creating a file - you can do that
+Note, here the `%%file` is just a way of creating a file - you can do that
 in a variety of ways.  Speaking of which...
 
 # Console
@@ -85,7 +85,7 @@ To try this for yourself,
 
 1. Download your notebook from your running Jupyter site.
 
-2. Go to github.com and create a new repository.
+2. Go to [github.com](http://www.github.com) and create a new repository.
 
 3. Select the 'README' link at the top of the new repository.
 
@@ -110,6 +110,8 @@ actually get it running -- try it!
 * wait a minute, then click "launch binder".
 
 * voila, you're at your github repo - but executing it.
+
+Note limitations on compute time, compute memory, and file size.
 
 # Wait, where the heck is this all running?
 
