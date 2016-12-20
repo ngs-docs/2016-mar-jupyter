@@ -1,8 +1,8 @@
-# Project Jupyter workshop materials -- March 9, 2016
+# Project Jupyter workshop materials -- December 20th, 2016
 
 See
 
-https://dib-training.readthedocs.org/en/pub/2016-03-09-jupyter-notebook.html
+https://dib-training.readthedocs.io/en/pub/2016-12-20-jupyter-intro.html
 
 ----
 
